@@ -1,7 +1,5 @@
-# gruenes_band_log_1
-Logbuch meiner Rad-Reise "Das Grüne Band"
-2024, nicht komplett, dafür sind 7 Tage zu knapp. 
-Entlang des ehemaligen deutsch-deutschen Grenzverlaufs gab es nicht viel, Riffelplatten, bewährungsanlagen, Natur.
+# MTB Tour "Das grüne Band"
+Logbuch meiner Rad-Reise entlang des ehemaligen deutsch-deutschen Grenzverlaufs. hier gab es nicht viel, Riffelplatten, bewährungsanlagen, Natur.
 Hier geht's lang, hier isses toll.
 # 
 
