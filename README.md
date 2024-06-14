@@ -1,7 +1,9 @@
 # gruenes_band_log_1
-Daily log derRadtour
-# Ab in den Osten, neee ritsch Osten!
-Transost - mit [Spejbl und Hurvínek](https://de.wikipedia.org/wiki/Spejbl_und_Hurv%C3%ADnek) bis rauf zur Schneekoppe... und wieder zurück.
+Logbuch meiner Rad-Reise "Das Grüne Band"
+2024, nicht komplett, dafür sind 7 Tage zu knapp. 
+Entlang des ehemaligen deutsch-deutschen Grenzverlaufs gab es nicht viel, Riffelplatten, bewährungsanlagen, Natur.
+Hier geht's lang, hier isses toll.
+# 
 
 [![Letzter Standort - Mario](https://img.shields.io/badge/Letzter_Standort-Mario-brightgreen?style=for-the-badge&logo=map&logoColor=white)](https://maps.app.goo.gl/TkryQSavZFu4XKTN8)
 (kann man anklicken😋)
