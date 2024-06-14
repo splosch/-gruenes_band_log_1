@@ -5,11 +5,11 @@ Entlang des ehemaligen deutsch-deutschen Grenzverlaufs gab es nicht viel, Riffel
 Hier geht's lang, hier isses toll.
 # 
 
-[![Letzter Standort - Mario](https://img.shields.io/badge/Letzter_Standort-Mario-brightgreen?style=for-the-badge&logo=map&logoColor=white)](https://maps.app.goo.gl/TkryQSavZFu4XKTN8)
+[![Letzter Standort - Mario](https://img.shields.io/badge/Letzter_Standort-Mario-brightgreen?style=for-the-badge&logo=map&logoColor=white)](https://maps.app.goo.gl/MUGxHU2uV443b89z8)
 (kann man anklicken😋)
 
 ## Tour-Plan und Reiselog incl. Bilder
-- [letzte Etappe - zurüch nach Germany / Sebnitz](https://github.com/splosch/transost_log/issues/6)
+- [erste Etappe - Eisenach - Rimbach, Start ohne Rennsteig](https://github.com/splosch/transost_log/issues/1)
 - [Aktuell und Plan](https://github.com/splosch/transost_log/issues?q=sort%3Acreated-asc)
 - [Alles was bereits passiert ist](https://github.com/splosch/transost_log/issues?q=is%3Aissue+is%3Aclosed)
 - *Updates bei Bock und Empfang*
