@@ -9,34 +9,25 @@ Hier geht's lang, hier isses toll.
 (kann man anklicken😋)
 
 ## Tour-Plan und Reiselog incl. Bilder
-- [erste Etappe - Eisenach - Rimbach, Start ohne Rennsteig](https://github.com/splosch/transost_log/issues/1)
-- [Aktuell und Plan](https://github.com/splosch/transost_log/issues?q=sort%3Acreated-asc)
-- [Alles was bereits passiert ist](https://github.com/splosch/transost_log/issues?q=is%3Aissue+is%3Aclosed)
+- [erste Etappe - Eisenach - Rimbach, Start ohne Rennsteig](https://github.com/splosch/gruenes_band_log_1/issues/1)
+- [Aktuell und Plan](https://github.com/splosch/gruenes_band_log_1/issues?q=sort%3Acreated-asc)
+- [Alles was bereits passiert ist](https://github.com/splosch/gruenes_band_log_1/issues?q=is%3Aissue+is%3Aclosed)
 - *Updates bei Bock und Empfang*
 
-## "Joar, kamma machen"
-- Dont try this at home 😋
-- 7 Tage aufm Bock + __Erholungstage__ (Hatte nen Gedankenfehler, Tag 2 in Malevil, wird kein Erholungstag sondern Rundtour vor Ort)
-- Samstag 2.9. Start in Sebnitz (Team Kams)
-- Sonntag 3.9. "Entspannungsrunde" Malevil
-- Montag 4.9. Abfahrt Team Kams in Malevil und treffen mit den anderen Atzen aufm Weg oder auch am Ziel.
-- Di 5.9. Ankunft auf Schneekoppe
-- 6.9. Rückreise startet
-- Freitag 8.9. Ankunft in Sebnitz
+## "Halbwertszeit von Mauern, Zäunen und Grenzen"
+- 7 Tage aufm Bock
+- Freitag 14.6.2024 Anfahrt mitten auf das Grüne Band, Eisenach
+- Sa, So, Mo, Di, Mi, Do, Fr sind Fahrtage
+- das nächste Wochenende, Radfahr-/Pausen-Puffer oder Rückfahrt
 
-## Wer sind die 6 Verrickten? 
-- Gurkenheimer die ...
-  - ... es lieben Ihren Urlaub schwitzend in Zeckenverseuchten Wäldern zu verbringen
-  - ... sich Carbo-Gel anstelle der landestypischen Köstlichkeiten reinpressen
-  - Höhenmeter ohne Sinn und Verstand schruppen nur um sagen zu könn...
-  - "kamma ma machen..."  
-
-- Strecke ist bereits 2020 von einigen der beteiligten Atzen schonmal gefahren worden.
-- GPS Tracks sind also belannt.
-- Unterkünfte hat Christian alle schon gebucht. 
-- Wer was essen will muss bis 18Uhr am Buffett stehen.
+## Strecke und Fahrart
+- die Strecke ist eine Kopie der Komoot-Strecke "Das grüne Band(raw)"
 
 ## Grobplanung
-MTB, ca. `11200 hm / Zwölf-Tausend Höhenmeter`, auf `570 km` über 6 Tage
+Komoot sagt die komplette MTB Tour hat folgende Eckdaten:
 
-Trails, Tragen, Wald unt Kretsch alles vom Feinsten.
+MTB, ca. `10000 hm / Zehn-Tausend Höhenmeter`, auf `1100 km` über x Tage
+
+
+meine Abgekürzte Version hat noch 
+XYZ km / 7000hm
