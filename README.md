@@ -7,7 +7,7 @@ Hier geht's lang, hier isses toll.
 (kann man anklicken😋)
 
 ## Tour-Plan und Reiselog incl. Bilder
-- [Braunlage, Erkältung...  mal schauen wies weitergeht](https://github.com/splosch/gruenes_band_log_1/issues/5)
+- [Ilsenburg, immernoch erkältet...  nächster Bhf zu weit... Rückfahrt.](https://github.com/splosch/gruenes_band_log_1/issues/6)
 - [Aktuell und Plan](https://github.com/splosch/gruenes_band_log_1/issues?q=sort%3Acreated-asc)
 - [Alles was bereits passiert ist](https://github.com/splosch/gruenes_band_log_1/issues?q=is%3Aissue+is%3Aclosed)
 - *Updates bei Bock und Empfang*
