@@ -3,7 +3,7 @@ Logbuch meiner Rad-Reise entlang des ehemaligen deutsch-deutschen Grenzverlaufs.
 Hier geht's lang, hier isses toll.
 # 
 
-[![Letzter Standort - Mario](https://img.shields.io/badge/Letzter_Standort-Mario-brightgreen?style=for-the-badge&logo=map&logoColor=white)](https://maps.app.goo.gl/UQbc6mZYxHBpc8gc7)
+[![Letzter Standort - Mario](https://img.shields.io/badge/Letzter_Standort-Mario-brightgreen?style=for-the-badge&logo=map&logoColor=white)](https://maps.app.goo.gl/r33eg5UBLAaiqmteA)
 (kann man anklicken😋)
 
 ## Tour-Plan und Reiselog incl. Bilder
